@@ -1,0 +1,40 @@
+[04:42:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:42:28] [ServerMain/WARN]: Missing data pack paper
+[04:42:29] [ServerMain/INFO]: Loaded 1290 recipes
+[04:42:29] [ServerMain/INFO]: Loaded 1399 advancements
+[04:42:30] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[04:42:30] [Server thread/INFO]: Loading properties
+[04:42:30] [Server thread/INFO]: Default game type: SURVIVAL
+[04:42:30] [Server thread/INFO]: Generating keypair
+[04:42:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:42:30] [Server thread/INFO]: Using epoll channel type
+[04:42:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:42:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:42:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:42:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:42:30] [Server thread/INFO]: Preparing level "world"
+[04:42:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:42:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:42:34] [Worker-Main-2/INFO]: Preparing spawn area: 73%
+[04:42:34] [Server thread/INFO]: Time elapsed: 555 ms
+[04:42:34] [Server thread/INFO]: Done (4.299s)! For help, type "help"
+[04:42:58] [Server thread/INFO]: _Sebas23_[/192.168.192.195:48592] logged in with entity id 10 at (-775.6327021379392, 63.0, -2617.751160380521)
+[04:42:58] [Server thread/INFO]: _Sebas23_ joined the game
+[04:48:19] [Server thread/INFO]: chepaboy[/192.168.192.161:62709] logged in with entity id 2044 at (-769.3958045122688, 73.0, -2454.3890422529284)
+[04:48:19] [Server thread/INFO]: chepaboy joined the game
+[04:50:06] [Server thread/WARN]: chepaboy moved too quickly! 2.0418857100384002,-0.7531999805212024,9.823654639935285
+[04:52:27] [Server thread/WARN]: _Sebas23_ moved too quickly! -4.301804302990604,1.5216761829341863,9.115465967150158
+[04:53:51] [Server thread/INFO]: [Not Secure] <_Sebas23_> a
+[04:53:53] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[04:53:53] [Server thread/INFO]: _Sebas23_ left the game
+[04:54:09] [Server thread/INFO]: _Sebas23_[/192.168.192.195:48771] logged in with entity id 7120 at (-786.6992584973497, 71.16610926093821, -2539.440360188218)
+[04:54:09] [Server thread/INFO]: _Sebas23_ joined the game
+[04:55:08] [Server thread/INFO]: _Sebas23_ lost connection: Timed out
+[04:55:08] [Server thread/INFO]: _Sebas23_ left the game
+[04:55:47] [Server thread/INFO]: _Sebas23_[/192.168.192.195:36676] logged in with entity id 8440 at (-786.6992584973497, 71.16610926093821, -2539.440360188218)
+[04:55:47] [Server thread/INFO]: _Sebas23_ joined the game
+[04:57:37] [Server thread/INFO]: [Not Secure] <_Sebas23_> SilvioGamer
+[05:03:13] [Server thread/INFO]: Villager cmk['Villager'/159, l='ServerLevel[world]', x=-769.19, y=69.00, z=-2530.63] died, message: 'Villager was slain by chepaboy'
+[05:03:16] [Server thread/INFO]: Villager cmk['Leatherworker'/156, l='ServerLevel[world]', x=-773.33, y=69.00, z=-2530.59] died, message: 'Leatherworker was slain by _Sebas23_'
+[05:03:18] [Server thread/INFO]: Villager cmk['Leatherworker'/155, l='ServerLevel[world]', x=-782.75, y=70.00, z=-2540.49] died, message: 'Leatherworker was slain by chepaboy'
+[05:13:00] [Server thread/INFO]: [Not Secure] <_Sebas23_> SHot
